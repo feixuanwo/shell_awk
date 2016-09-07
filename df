@@ -1,0 +1,7 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda3       
+				27563212 4340356  21822692  17% /
+tmpfs             957244     232    957012   1% /dev/shm
+/dev/sda1         297485   39166    242959  14% /boot
+/dev/sr0           51114   51114         0 100% /media/CDROM
+/dev/sr1         3762278 3762278         0 100% /media/RHEL_6.5 x86_64 Disc 1

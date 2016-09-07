@@ -1,0 +1,14 @@
+mail from: tomcat@gmail.com
+subject:Hello
+data:2012-08-12 17:00
+content:Hello, The world.
+
+mail from： jerry@gmail.com
+subject:congregation
+data:2012-09-11 15:00
+content:This is a test mail.
+
+mail from： jerry@gmail.com
+subject:congregation
+data:2012-09-11 17:00
+content:This is a test mail.
